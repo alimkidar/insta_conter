@@ -1,5 +1,5 @@
 # insta_conter
-Insta Counter for counting instagram's followers and following
+Insta Counter untuk menghitung jumlah followers dan following Instagram
 
 Cara pakai:
 1. Masukan username pada file csv yang bernama "usernmae.csv"
